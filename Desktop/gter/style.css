@@ -1,0 +1,325 @@
+@font-face {
+    font-family: Gilroy-Bold; 
+    src: url(Gilroy-Bold.ttf); 
+}
+@font-face {
+    font-family: Gilroy-Medium; 
+    src: url(Gilroy-Medium.ttf); 
+}
+html, body{
+    margin: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+
+header a { 
+    /*position: absolute;*/
+    float: left;
+    text-decoration: none;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22.28px;
+    padding: 0 155.65px 0 0;
+    color: #828282;
+    margin-top: 32.990234375px;
+}
+.home {
+    color: #070707;
+    /*margin-left: 17.44262%;*/
+}
+.gray3 {
+    padding-right: 0px;
+}
+hr {
+    border: none;
+    background-color: #828282;
+    height: 1px;
+    width: 940.6040246708466px;
+    /*margin-left: 17.34879%;*/
+    margin-top: 87.94px;
+    position: absolute;
+}
+.Denis {
+    font-family: Gilroy-Bold;
+    color: #070707;
+    font-size: 47.34px;
+    line-height: 58.61px;
+    width: 123.51px;
+    height: 118.17px;
+    /*margin-left: 17.37301%;*/
+    margin-top: 115.13px;
+    position: absolute;
+    
+}
+.ux {
+    font-family: Gilroy-Medium;
+    color: #070707;
+    font-size: 18px;
+    line-height: 21.83px;
+    margin-top: 183.21px;
+    position: absolute;
+    margin-left: 419.74px;
+}
+.main {
+    position: absolute;
+    width:65px;
+    height:20.06px;
+    margin-top: 183.21px;
+    font-family: Gilroy-Bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #070707;
+    transform: rotate(-90deg);
+    margin-left: 900px;
+}
+.ru {
+    color: #828282;
+}
+.hat {
+    position: absolute;
+    /*margin-left: 17.34879%;*/
+    margin-top: 276.94px;
+}
+.h {
+    width: 100%;
+    position: absolute;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    /*margin-left: 44.68373%;*/
+    top: 120.25px;
+}
+.text {
+    position: absolute;
+    /*margin-left: 33.24083%;*/
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+    top: 181px;
+    width: 100%;
+}
+
+.about_me, .Portfolio {
+    position: absolute;
+    top: 768px;
+    width: 100%;
+    height: 506px;
+    background: #F6F6F6;
+}
+.Skills {
+    position: absolute;
+    top: 1274px;
+    width: 100%;
+    height: 610px;
+}
+.hh {
+    position: absolute;
+    /*margin-left: 45.79584%;*/
+    top: 91px;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    width: 100%;
+    height: 26.04px;
+}
+.text1 {
+    position: absolute;
+    top: 186.14px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+    width: 100%;
+}
+.im1 {
+    float: left;
+    position: absolute;
+    /*left: 20.36124%;*/
+    margin-top: 292.65px;
+    /*width: 89px;*/
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.im1 img {
+    
+    padding-right: 90.25px;
+    
+}
+
+.im1 img:nth-child(4) {
+    padding-right: 0px;
+}
+
+.ph1, .ph2, .ph3, .ph4 {
+    position: absolute;
+    /*left: 20.98685%;*/
+    top: 1679.27px;
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
+.starset img, .starset1 img, .starset2 img, .starset3 img {
+    margin-right: 9.02px;
+}
+.starset, .starset1, .starset2, .starset3 {
+    position: absolute;
+    margin-top: 1746.94px;
+    /*left: 17.69619%;*/
+}
+.ph2 {
+    /*left: 39.05467%;*/
+}
+.starset1 {
+    /*left: 35.46159%;*/
+}
+.ph3 {
+    /*left: 56.28927%;*/
+}
+.starset2 {
+    /*left: 53.22698%;*/
+}
+.ph4 {
+    /*left: 75.46920%;*/
+}
+.starset3 {
+    /*left: 70.99238%;*/
+}
+.Portfolio {
+    top: 1884px;
+    height: 2253px;
+}
+.tex {
+    position: absolute;
+    width: 100%;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    /*margin-left: 45.64823%;*/
+    top: 112.93px;
+}
+.home img, .reebok img, .cam img {
+    position: absolute;
+    width: 100%;
+    height: 510px;
+    top: 203px;
+    /*left: 17.83460%;*/
+}
+.wri1, .wri2, .wri3 {
+    position: absolute;
+    /*left: 40.79238%;*/
+    top: 757.88px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+    width: 100%;
+}
+.reebok img {
+    height: 522px;
+    top: 879px;
+}
+.wri2 {
+    /*left: 43.36332%;*/
+    top: 1445.89px;
+    width: 100%;
+}
+.cam img {
+    height: 522px;
+    top: 1567px;
+}
+.wri3 {
+    /*left: 41.41730%;*/
+    top: 2134.9px;
+    width: 100%;
+}
+footer {
+    position: absolute;
+    top: 4137px;
+    height: 622px;
+    width: 100%;
+}
+.Contacts {
+    position: absolute;
+    /*left: 44.89204%;*/
+    top: 114.24px;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    width: 100%;
+    height: 26.04px;
+}
+.smthtx {
+    position: absolute;
+    /*left: 40.86159%;*/
+    top: 177.34px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+    width: 100%;
+    height: 44.06px;
+}
+input[type=submit] {
+    position: absolute;
+    top: 251px;
+    /*left: 43.92802%;*/
+    width: 181px;
+    height: 42px;
+    border: 0;
+    padding: 0;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    color: white;
+    background-color: white;
+}
+.inp {
+    display: flex;
+    justify-content: center;
+}
+.images a {
+    margin-right: 60px;
+}
+.images a:nth-child(4) {
+    margin-right: 0px;
+}
+.images {
+    float: left;
+    position: absolute;
+    margin-top: 379.64px;
+    /*left: 38.22076%;*/
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.like {
+    position: absolute;
+    /*left: 41.83460%;*/
+    margin-top: 464.76px;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    width: 100%;
+}
